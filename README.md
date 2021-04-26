@@ -1,0 +1,2 @@
+# portfolio
+• Expert level knowledge in OOPs in PHP • Have experience in Laravel or Codeigniter • Experience with CSS3, HTML5, PHP, JavaScript/Jquery Angular.JS, JSON, Web services (SOAP, RESTFULL) etc. • Developed web application in Core PHP, MYSQL. • Excellent in coding, debugging and optimization skills. • Strong proficiency in writing SQL and procedures • Up-to-date with the latest Web trends, techniques, and technologies
